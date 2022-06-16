@@ -1,0 +1,359 @@
+· Pergunta 1
+0,5 em 0,5 pontos
+	
+	
+	
+	Considere as seguintes afirmações:
+ 
+I. Processar de forma eficiente e com baixo custo grandes volume de dados;
+II. Responder ao aumento da velocidade de geração dos dados;
+III. Coletar e analisar dados de diferentes formatos e fontes.
+ 
+Qual das afirmações está correta em relação às oportunidades do Big Data?
+	
+	
+	
+	
+		Resposta Selecionada:
+	e. 
+Afirmações I, II e III.
+	Respostas:
+	a. 
+Apenas a afirmação I.
+	
+	b. 
+Apenas a afirmação II.
+	
+	c. 
+Apenas a afirmação III.
+	
+	d. 
+Afirmações I e II.
+	
+	e. 
+Afirmações I, II e III.
+	Feedback da resposta:
+	Resposta: E
+Comentário: Big Data tem, como objetivo, processar, de forma eficiente e com baixo custo, grandes volumes de dados, responder ao aumento da velocidade de geração dos dados, coletar e analisar dados, de diferentes formatos e fontes.
+	
+	
+	
+· Pergunta 2
+0,5 em 0,5 pontos
+	
+	
+	
+	Qual dos armazenamentos é a principal fonte de dados confiáveis ​​para a iniciativa de governança de dados?
+	
+	
+	
+	
+		Resposta Selecionada:
+	a. 
+Data Hub.
+	Respostas:
+	a. 
+Data Hub.
+	
+	b. 
+Data Lake.
+	
+	c. 
+Data Warehouse.
+	
+	d. 
+Data Driven.
+	
+	e. 
+Data Ops.
+	Feedback da resposta:
+	Resposta: A
+Comentário: Data Hub é a principal fonte de dados confiáveis ​​para a iniciativa de governança de dados.
+	
+	
+	
+· Pergunta 3
+0,5 em 0,5 pontos
+	
+	
+	
+	Em qual das etapas do projeto de Big Data
+devemos identificar todas as questões comerciais com a maior precisão possível?
+	
+	
+	
+	
+		Resposta Selecionada:
+	c. 
+Definição do Business Case.
+	Respostas:
+	a. 
+Definição dos Requisitos Técnicos.
+	
+	b. 
+Planejamento do Projeto.
+	
+	c. 
+Definição do Business Case.
+	
+	d. 
+Criação de um “Total Business Value Assessment”.
+	
+	e. 
+Apresentação de Resultados.
+	Feedback da resposta:
+	Resposta: C
+Comentário: identificar todas as questões comerciais com a maior precisão possível corresponde à definição do Business Case.
+	
+	
+	
+· Pergunta 4
+0,5 em 0,5 pontos
+	
+	
+	
+	Considere as seguintes afirmações para explicar a “Ciência de Dados”:
+ 
+I. É o termo usado para definir a extração de insights de dados que são coletados de várias fontes;
+II. Inclui a modelagem preditiva e a ajuda para analisar e interpretar grandes quantidades de dados;
+III. É o processo para extrair as informações valiosas a partir de dados;
+IV. Seus profissionais são chamados de cientistas de dados.
+ 
+Estão corretas as afirmações:
+	
+	
+	
+	
+		Resposta Selecionada:
+	e. 
+I, II, III e IV.
+	Respostas:
+	a. 
+I e II.
+	
+	b. 
+III e IV.
+	
+	c. 
+II e IV.
+	
+	d. 
+I, III e IV.
+	
+	e. 
+I, II, III e IV.
+	Feedback da resposta:
+	Resposta: E
+Comentário: todas as afirmações são verdadeiras à área de Ciência de Dados, na qual os dados são transformados em informação e em conhecimentos.
+	
+	
+	
+· Pergunta 5
+0,5 em 0,5 pontos
+	
+	
+	
+	Comunicar as previsões e os resultados, para a gestão e os departamentos de TI através de visualizações de dados eficazes; extrair grandes volumes de dados de múltiplas fontes internas e externas; empregar os programas de análise sofisticadas, aprendizado de máquina e métodos estatísticos, para preparar os dados para o uso em modelagem preditiva e prescritiva; estas são tarefas do:
+	
+	
+	
+	
+		Resposta Selecionada:
+	c. 
+Cientista de dados.
+	Respostas:
+	a. 
+Analista de negócios.
+	
+	b. 
+Analista de dados.
+	
+	c. 
+Cientista de dados.
+	
+	d. 
+Arquiteto de dados.
+	
+	e. 
+Engenheiro de dados.
+	Feedback da resposta:
+	Resposta: C
+Comentário: o cientista de dados tem, como tarefa, comunicar as previsões e os resultados, para a gestão e os departamentos de TI através de visualizações de dados eficazes; extrair grandes volumes de dados de múltiplas fontes internas e externas; empregar os programas de análise sofisticadas, aprendizado de máquina e métodos estatísticos, para preparar os dados para o uso em modelagem preditiva e prescritiva.
+	
+	
+	
+· Pergunta 6
+0,5 em 0,5 pontos
+	
+	
+	
+	Quais dessas características não se aplica ao cientista de dados?
+	
+	
+	
+	
+		Resposta Selecionada:
+	d. 
+Introspecção e avesso à tecnologia.
+	Respostas:
+	a. 
+Curiosidade e intuição.
+	
+	b. 
+Comunicação e capacidade de apresentação.
+	
+	c. 
+Criatividade e conhecimento de negócios.
+	
+	d. 
+Introspecção e avesso à tecnologia.
+	
+	e. 
+Raciocínio analítico.
+	Feedback da resposta:
+	Resposta: D
+Comentário: conhecimentos de tecnologia aplicada aos dados é uma característica fundamental de um bom profissional da Ciências de Dados.
+	
+	
+	
+· Pergunta 7
+0,5 em 0,5 pontos
+	
+	
+	
+	Quais os 5 Vs do Big Data?
+	
+	
+	
+	
+		Resposta Selecionada:
+	a. 
+Volume, Variedade, Velocidade, Veracidade e Valor.
+	Respostas:
+	a. 
+Volume, Variedade, Velocidade, Veracidade e Valor.
+	
+	b. 
+Volume, Valor, Volatilidade, Velocidade e Vitalidade.
+	
+	c. 
+Volume, Vetorização, Volatilização, Valorização e Vitória.
+	
+	d. 
+Volume, Variedade, Valor, Volatilidade e Vontade.
+	
+	e. 
+Verificação, Vivência, Valor, Vida e Variedade.
+	Feedback da resposta:
+	Resposta: A
+Comentário: Volume, Variedade, Velocidade, Veracidade e Valor são características reconhecidas nos dados relacionados aos projetos da área de Big Data.
+	
+	
+	
+· Pergunta 8
+0,5 em 0,5 pontos
+	
+	
+	
+	Marque a alternativa correta em relação à Ciência de Dados:
+	
+	
+	
+	
+		Resposta Selecionada:
+	d. 
+A Ciência de Dados é um conjunto de métodos, técnicas e teorias usados para analisar um vasto volume de dados, e transformá-lo em insights significativos e acionáveis.
+	Respostas:
+	a. 
+A Ciência de Dados é um conjunto de métodos, técnicas e teorias usados para analisar, apenas, grande volume de dados, e transformá-lo em insights
+não significativos e direcionáveis.
+	
+	b. 
+A Ciência de Dados é um conjunto de métodos, técnicas e teorias usados para analisar, apenas, um pequeno volume de dados, e transformá-lo em insights significativos e acionáveis.
+	
+	c. 
+A Ciência de Dados é um conjunto de métodos, técnicas e teorias usados para analisar, apenas, um pequeno volume de dados, e transformá-lo em insights não significativos e acionáveis.
+	
+	d. 
+A Ciência de Dados é um conjunto de métodos, técnicas e teorias usados para analisar um vasto volume de dados, e transformá-lo em insights significativos e acionáveis.
+	
+	e. 
+A Ciência de Dados é um conjunto de informações usadas para analisar as ideias e transformá-las em realidade.
+	Feedback da resposta:
+	Resposta: D
+Comentário: podemos definir as Ciências de Dados como o conjunto de métodos, técnicas e teorias usados para analisar um vasto volume de dados, e transformá-lo em insights significativos e acionáveis.
+	
+	
+	
+· Pergunta 9
+0,5 em 0,5 pontos
+	
+	
+	
+	O que são os dados?
+	
+	
+	
+	
+		Resposta Selecionada:
+	b. 
+Dados são coleções de fatos, tais como: números, palavras, medições, observações ou, mesmo, apenas, descrições de coisas.
+	Respostas:
+	a. 
+Dados são coleções de fatos, tais como: números, palavras, medições, informações ou, mesmo, descrições de coisas.
+	
+	b. 
+Dados são coleções de fatos, tais como: números, palavras, medições, observações ou, mesmo, apenas, descrições de coisas.
+	
+	c. 
+Dados são coleções de informações, tais como: números, palavras, medições, observações ou, mesmo, apenas, descrições de coisas.
+	
+	d. 
+Dados são coleções de relatórios, tais como: números, palavras, medições, observações e descrições de coisas.
+	
+	e. 
+Dados são coleções de ideias, tais como: números, palavras ou medições.
+	Feedback da resposta:
+	Resposta: B
+Comentário: dados são considerados como matéria-prima para a obtenção de resultados em Big Data e podemos defini-los como as coleções de fatos, tais como: números, palavras, medições, observações ou, mesmo, apenas, descrições de coisas.
+	
+	
+	
+· Pergunta 10
+0,5 em 0,5 pontos
+	
+	
+	
+	Com relação aos seguintes itens, responda à pergunta:
+ 
+I. Notícias de jornais e imagens por satélite;
+II. E-commerce, TV & vídeo;
+III. Mídias sociais e procedimentos médicos;
+IV. Sensores e sistemas de monitoramento.
+ 
+Que tipos de dados fazem parte do nosso dia a dia, atualmente?
+	
+	
+	
+	
+		Resposta Selecionada:
+	e. 
+I, II, III, IV.
+	Respostas:
+	a. 
+I e II.
+
+b. 
+III e IV.
+	
+	c. 
+II, III, IV.
+	
+	d. 
+I, II, III.
+	
+	e. 
+I, II, III, IV.
+	Feedback da resposta:
+	Resposta: E
+Comentário: todos os itens se associam à variedade das formas de dados, estruturados ou não estruturados, pertencentes às análises em Ciências de Dados.
