@@ -1,10 +1,15 @@
-# PROFESSIONAL CERTIFICATIONS AND BADGES YEAR 2022
+# CERTIFIED AND BADGES ORACLE YEAR 2022
 
-### Some of my certifications achieved this year 2022. This repository includes certifications from the largest technology companies in the world and the main IT skills sought and requested in the job market.
+### SR ENG. SOFT OCI 1Z0-1105-22 | SCS-C01| DAS-C01 | OCI 1Z0-997 | OCI 1Z0-1085-21 | AWS AMS | IBM C2S-609 | CCO-L1 | CCO-L3 | SFPC |RWVCPC | ASB-412 | APF-ASEC | APF-PMA | APF-DAP | MU-A300 | ACP-610 | ACP-620
 
+### Oracle Cloud Infrastructure 2022 Certified Foundations Associate
 
-![Logo do Markdown](banner-linkedin-softskills-cleiton-correa-2.png)
+[oracle](https://catalog-education.oracle.com/pls/certview/sharebadge?id=92149E16FD146C14DA31101B73A1080843815D466C63803A1D2B0186DB5752D0).
 
-## Many thanks to all these great and extraordinary companies that allow access and encourage the education and preparation of professionals in the areas of technologies.
+### Oracle Cloud Infrastructure 2022 Certified Foundations Associate
 
-# Thanks!
+[oracle](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DF64B1E548AF9D37A90E3105D8E8DE601E0BDEC7AE370468E801FA833A2D1612).
+
+### Oracle Cloud Infrastructure Foundations 2021 Associate
+
+[oracle](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F3A549602925285FE30A91C6E89A0CE03508AB84246107BEF65CF75B345CD3C9).
