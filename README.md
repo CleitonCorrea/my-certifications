@@ -2,6 +2,19 @@
 
 ### SR ENG. SOFT OCI 1Z0-1105-22 | SCS-C01| DAS-C01 | OCI 1Z0-997 | OCI 1Z0-1085-21 | AWS AMS | IBM C2S-609 | CCO-L1 | CCO-L3 | SFPC |RWVCPC | ASB-412 | APF-ASEC | APF-PMA | APF-DAP | MU-A300 | ACP-610 | ACP-620
 
+
+### IBM Cybersecurity Analyst Professional Certificate
+
+[IBM Cybersecurity Analyst Professional Certificate](https://www.credly.com/badges/c0161e58-7a64-47e0-bba7-194e8440824f/public_url).
+
+### Security Analyst Fundamentals Specialization
+
+[IBM CERTIFIED PROFESSIONAL](https://www.credly.com/badges/c0161e58-7a64-47e0-bba7-194e8440824f/public_url).
+
+### Oracle Cloud Infrastructure 2022 Certified Foundations Associate
+
+[oracle](https://catalog-education.oracle.com/pls/certview/sharebadge?id=92149E16FD146C14DA31101B73A1080843815D466C63803A1D2B0186DB5752D0).
+
 ### Oracle Cloud Infrastructure 2022 Certified Foundations Associate
 
 [oracle](https://catalog-education.oracle.com/pls/certview/sharebadge?id=92149E16FD146C14DA31101B73A1080843815D466C63803A1D2B0186DB5752D0).
