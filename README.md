@@ -3,26 +3,22 @@
 ### SR ENG. SOFT OCI 1Z0-1105-22 | SCS-C01| DAS-C01 | OCI 1Z0-997 | OCI 1Z0-1085-21 | AWS AMS | IBM C2S-609 | CCO-L1 | CCO-L3 | SFPC |RWVCPC | ASB-412 | APF-ASEC | APF-PMA | APF-DAP | MU-A300 | ACP-610 | ACP-620
 
 
-### IBM Cybersecurity Analyst Professional Certificate
-
-![IBM Cybersecurity Analyst Professional Certificate](https://www.credly.com/badges/c0161e58-7a64-47e0-bba7-194e8440824f/public_url)
-
 ### Security Analyst Fundamentals Specialization
 
-![IBM CERTIFIED PROFESSIONAL](https://www.credly.com/badges/c0161e58-7a64-47e0-bba7-194e8440824f/public_url)
+<img src="CREDENTIALS/security-analyst-fundamentals-specialization.png" alt="Security Analyst Fundamentals Specialization" title="Security Analyst Fundamentals Specialization" style="height: 100%; width:100%;"/>
+
+### IBM Cybersecurity Analyst Professional Certificate
+
+<img src="CREDENTIALS/Cybersec_compl_framew_sys_admin.png" alt="IBM Cybersecurity Analyst Professional Certificate" title="IBM Cybersecurity Analyst Professional Certificate" style="height: 100%; width:100%;"/>
 
 ### Oracle Cloud Infrastructure 2022 Certified Foundations Associate
 
-![oracle](https://catalog-education.oracle.com/pls/certview/sharebadge?id=92149E16FD146C14DA31101B73A1080843815D466C63803A1D2B0186DB5752D0)
+<img src="CREDENTIALS/50_Oracle_Cloud_Infrastructure.jpg" alt="Oracle Cloud Infrastructure 2022 Certified Foundations Associate" title="Oracle Cloud Infrastructure 2022 Certified Foundations Associate" style="height: 100%; width:100%;"/>
 
-### Oracle Cloud Infrastructure 2022 Certified Foundations Associate
+### Oracle Cloud Data Management 2022 Foundations Certified Associate
 
-![oracle](https://catalog-education.oracle.com/pls/certview/sharebadge?id=92149E16FD146C14DA31101B73A1080843815D466C63803A1D2B0186DB5752D0)
+<img src="CREDENTIALS/OCDMF2022.jpg" alt="Oracle Cloud Data Management 2022 Foundations Certified Associate" title="Oracle Cloud Data Management 2022 Foundations Certified Associate" style="height: 100%; width:100%;"/>
 
-### Oracle Cloud Infrastructure 2022 Certified Foundations Associate
+### Oracle Cloud Infrastructure Foundations 2021 Certified Associate
 
-![oracle](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DF64B1E548AF9D37A90E3105D8E8DE601E0BDEC7AE370468E801FA833A2D1612)
-
-### Oracle Cloud Infrastructure Foundations 2021 Associate
-
-![oracle](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F3A549602925285FE30A91C6E89A0CE03508AB84246107BEF65CF75B345CD3C9)
+<img src="CREDENTIALS/50_Oracle_Cloud_Infrastructure.jpg" alt="Oracle Cloud Infrastructure Foundations 2021 Certified Associate" title="Oracle Cloud Infrastructure Foundations 2021 Certified Associate" style="height: 100%; width:100%;"/>
