@@ -5,11 +5,11 @@
 
 ### Security Analyst Fundamentals Specialization
 
-<img src="CREDENTIALS/security-analyst-fundamentals-specialization.png" alt="Security Analyst Fundamentals Specialization" title="Security Analyst Fundamentals Specialization" style="height:300px; width:300px;"/>
+<img src="CREDENTIALS/security-analyst-fundamentals-specialization.png" alt="Security Analyst Fundamentals Specialization" title="Security Analyst Fundamentals Specialization" style="40%; width: 40%; margin-left: 50%; margin-top: 50%"/>
 
 ### IBM Cybersecurity Analyst Professional Certificate
 
-<img src="CREDENTIALS/Cybersec_compl_framew_sys_admin.png" alt="IBM Cybersecurity Analyst Professional Certificate" title="IBM Cybersecurity Analyst Professional Certificate" style="height:300px; width:300px;"/>
+<img src="CREDENTIALS/Cybersec_compl_framew_sys_admin.png" alt="IBM Cybersecurity Analyst Professional Certificate" title="IBM Cybersecurity Analyst Professional Certificate" style="40%; width: 40%; margin-left: 50%; margin-top: 50%"/>
 
 ### Oracle Cloud Infrastructure 2022 Certified Foundations Associate
 
