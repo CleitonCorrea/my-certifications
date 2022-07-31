@@ -5,7 +5,7 @@
 
 ### Security Analyst Fundamentals Specialization
 
-<img src="CREDENTIALS/security-analyst-fundamentals-specialization.png" alt="Security Analyst Fundamentals Specialization" title="Security Analyst Fundamentals Specialization" style="40%; width: 40%; margin-left: 50%; margin-top: 50%"/>
+<img src="https://www.credly.com/badges/c0161e58-7a64-47e0-bba7-194e8440824f/public_url alt="Security Analyst Fundamentals Specialization" title="Security Analyst Fundamentals Specialization" style="40%; width: 40%; margin-left: 50%; margin-top: 50%"/>
 
 ### IBM Cybersecurity Analyst Professional Certificate
 
