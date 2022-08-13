@@ -6,7 +6,7 @@
 ### Security Analyst Fundamentals Specialization
 
 
-![Oracle Cloud Infrastructure Foundations 2021 Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F3A549602925285FE30A91C6E89A0CE03508AB84246107BEF65CF75B345CD3C9.html)
+![Oracle Cloud Infrastructure Foundations 2021 Associate](https://brm-workforce.oracle.com/pdf/certview/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png)
 
 
 <img src="https://www.credly.com/badges/c0161e58-7a64-47e0-bba7-194e8440824f/public_url.html" alt="Security Analyst Fundamentals Specialization" title="Security Analyst Fundamentals Specialization" style="40%; width: 40%; margin-left: 50%; margin-top: 50%"/>
