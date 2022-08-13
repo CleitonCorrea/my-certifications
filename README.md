@@ -5,10 +5,11 @@
 
 ### Security Analyst Fundamentals Specialization
 
-{:.centered}
-![cleiton correa](https://www.credly.com/badges/c0161e58-7a64-47e0-bba7-194e8440824f/public_url)
 
-<img src="https://www.credly.com/badges/c0161e58-7a64-47e0-bba7-194e8440824f/public_url" alt="Security Analyst Fundamentals Specialization" title="Security Analyst Fundamentals Specialization" style="40%; width: 40%; margin-left: 50%; margin-top: 50%"/>
+![Oracle Cloud Infrastructure Foundations 2021 Associate][https://catalog-education.oracle.com/pls/certview/sharebadge?id=F3A549602925285FE30A91C6E89A0CE03508AB84246107BEF65CF75B345CD3C9.html]
+
+
+<img src="https://www.credly.com/badges/c0161e58-7a64-47e0-bba7-194e8440824f/public_url.html" alt="Security Analyst Fundamentals Specialization" title="Security Analyst Fundamentals Specialization" style="40%; width: 40%; margin-left: 50%; margin-top: 50%"/>
 
 ### IBM Cybersecurity Analyst Professional Certificate
 
