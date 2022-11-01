@@ -8,7 +8,7 @@
 
 ### Linux and Private Cloud Administration on IBM Power Systems Specialization
 <p align="center"><a href="https://www.credly.com/badges/d207cd28-489d-468e-8841-ba0133f01366/public_url">
-<img alt="Linux and Private Cloud Administration on IBM Power Systems Specialization" title="Linux and Private Cloud Administration on IBM Power Systems Specialization" src="https://images.credly.com/size/680x680/images/aa6b6ee5-07b1-43f7-aad6-87ab946036ce/Linux_and_Private_Cloud_on_IBM_Systems_Specialization.png" width="600px" height="600px"/></a></p>
+<img alt="Linux and Private Cloud Administration on IBM Power Systems Specialization" title="Linux and Private Cloud Administration on IBM Power Systems Specialization" src="https://images.credly.com/size/680x680/images/aa6b6ee5-07b1-43f7-aad6-87ab946036ce/Linux_and_Private_Cloud_on_IBM_Systems_Specialization.png" width="300px" height="300px"/></a></p>
 
 ### Oracle Cloud Infrastructure Foundations 2021 Associate
 <p align="center">
