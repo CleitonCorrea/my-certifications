@@ -6,6 +6,10 @@
 ### SR ENG. SOFT OCI 1Z0-1105-22 | SCS-C01| DAS-C01 | OCI 1Z0-997 | OCI 1Z0-1085-21 | AWS AMS | IBM C2S-609 | CCO-L1 | CCO-L3 | SFPC |RWVCPC | ASB-412 | APF-ASEC | APF-PMA | APF-DAP | MU-A300 | ACP-610 | ACP-620
 
 
+### Security Analyst Fundamentals Specialization
+<p align="center"><a href="https://www.credly.com/badges/d207cd28-489d-468e-8841-ba0133f01366/public_url">
+<img alt="Security Analyst Fundamentals Specialization" title="Security Analyst Fundamentals Specialization" src="https://images.credly.com/size/680x680/images/89fc0e9e-6da5-4146-b277-cd11c313123f/Security_Analyst_Fundamentals_Specialization.png" width="300px" height="300px"/></a></p>
+
 ### Linux and Private Cloud Administration on IBM Power Systems Specialization
 <p align="center"><a href="https://www.credly.com/badges/d207cd28-489d-468e-8841-ba0133f01366/public_url">
 <img alt="Linux and Private Cloud Administration on IBM Power Systems Specialization" title="Linux and Private Cloud Administration on IBM Power Systems Specialization" src="https://images.credly.com/size/680x680/images/aa6b6ee5-07b1-43f7-aad6-87ab946036ce/Linux_and_Private_Cloud_on_IBM_Systems_Specialization.png" width="300px" height="300px"/></a></p>
