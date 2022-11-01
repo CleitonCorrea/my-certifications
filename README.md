@@ -1,4 +1,4 @@
-# CERTIFIED AND BADGES ORACLE | IBM | MICROSOFT |EC-COUNCIL | ATLASSIAN | REDIS | MONGO | COMPTIA | CISCO | FORTNIT etc... YEAR 2022 
+# CERTIFIED AND BADGES ORACLE | IBM | MICROSOFT |EC-COUNCIL | ATLASSIAN | REDIS | MONGO | COMPTIA | CISCO | FORTNET etc... YEAR 2022 
 
 
 [![CI](https://github.com/CleitonCorrea/my-certifications/actions/workflows/main.yml/badge.svg?branch=develop&event=pull_request)](https://github.com/CleitonCorrea/my-certifications/actions/workflows/main.yml)
