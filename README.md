@@ -4,6 +4,8 @@
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d207cd28-489d-468e-8841-ba0133f01366" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+[![CI](https://github.com/CleitonCorrea/my-certifications/actions/workflows/main.yml/badge.svg?branch=develop&event=pull_request)](https://github.com/CleitonCorrea/my-certifications/actions/workflows/main.yml)
+
 
 ### Oracle Cloud Infrastructure Foundations 2021 Associate
 <p align="center">
