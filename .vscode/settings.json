@@ -1,0 +1,9 @@
+{
+    "editor.fontFamily": "Menlo, 'DejaVu Sans Mono', Consolas, 'Lucida Console', monospace",
+    "workbench.colorTheme": "Hyper Term Black",
+    "editor.cursorStyle": "block",
+    "editor.minimap.enabled": false,
+    "editor.renderLineHighlight": "line",
+    "editor.accessibilityPageSize": 10,
+    "editor.autoIndent": "full"
+}
