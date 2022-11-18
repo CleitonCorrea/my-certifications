@@ -2,6 +2,13 @@
     "recommendations": [
         "johnstoncode.svn-scm",
         "hsnazar.hyper-term-theme",
-        "Nur.just-black"
+        "nur.just-black",
+        "christian-kohler.path-intellisense",
+        "ionutvmi.path-autocomplete",
+        "bierner.markdown-preview-github-styles",
+        "starkwang.figimg",
+        "davidanson.vscode-markdownlint",
+        "jamesmaj.easy-icons",
+        "helgardrichard.helium-icon-theme"
     ]
 }
