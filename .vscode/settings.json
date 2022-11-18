@@ -5,5 +5,8 @@
     "editor.minimap.enabled": false,
     "editor.renderLineHighlight": "line",
     "editor.accessibilityPageSize": 10,
-    "editor.autoIndent": "full"
+    "editor.autoIndent": "full",
+    "markdown-preview-github-styles.colorTheme": "auto",
+    "gitlens.currentLine.uncommittedChangesFormat": "✏️ ${ago}${author}${email}",
+    "markdown.preview.breaks": true
 }
