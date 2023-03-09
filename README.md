@@ -4,11 +4,11 @@
 <p align="left">
   Sou especialista profissional certificado em segurança cibernética, especialista em machine learning nivel 1 e especialista em Linux and Private Cloud Administration com IBM Power Systems and Red Hat todos pela IBM CORPORATION.
 
-Certificado e credenciado pelas grandes empresas de tecnologias como: IBM, Oracle, AWS, CISCO, EC-Council, Atlassian, CertPorf, API Academy Foundations e especialização CS50 de Havard BBS.
+Certificado e credenciado pelas grandes empresas de tecnologias como: IBM, Oracle, AWS, CISCO, EC-Council, Atlassian, CertPorf, API Academy Foundations e especialização CS50 Havard BBS.
 
 <br />
 
-<strong>Esp. Cyber Security | Esp. Machine Learning | Esp. Aalise Cyber Security</strong>
+<strong>Esp. Cyber Security | Esp. Machine Learning | Esp. Linux Cloud Administration</strong>
 
 <br />
  MEC - Ministério da Educação e Cultura
